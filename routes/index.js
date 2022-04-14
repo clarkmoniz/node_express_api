@@ -47,7 +47,6 @@ module.exports = (app) => {
         res.status(200).json({ recipeNames });
     });
 
-
     /**
      * GET /recipes/details/:recipeName
      * Returns the ingredients and number of steps for a given recipe
@@ -70,7 +69,6 @@ module.exports = (app) => {
         }
     });
 
-
     /**
      * POST /recipes
      * Creates a new recipe if it does not exist already, otherwise throws an error
@@ -83,15 +81,13 @@ module.exports = (app) => {
            res.status(400).json({ error: "Recipe already exists" });
            return;
         }
-        console.log("hello")
+        
         if (upsertRecipe(RECIPE_STORE, req.body)) {
-            console.log("hello2")
             res.sendStatus(200);
         } else {
             res.sendStatus(400);
         }
     });
-
 
     /**
      * PUT /recipes

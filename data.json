@@ -46,6 +46,95 @@
         "Add tea leaves/tea bags, chai masala; mix and steep for 3-4 minutes",
         "Remove mixture from heat; strain and enjoy"
       ]
+    },
+    {
+      "name": "butteredBagel",
+      "ingredients": [
+        "1 bagel",
+        "butter",
+        "sugar"
+      ],
+      "instructions": [
+        "cut the bagel",
+        "spread butter on bagel"
+      ]
+    },
+    {
+      "name": "bagel",
+      "ingredients": [
+        "1 bagel",
+        "butter"
+      ],
+      "instructions": [
+        "cut the bagel",
+        "spread butter on bagel"
+      ]
+    },
+    {
+      "name": "new bagel",
+      "ingredients": [
+        "4 bagels",
+        "butter"
+      ],
+      "instructions": [
+        "cut the bagel",
+        "spread butter on bagel"
+      ]
+    },
+    {
+      "name": "old bagel",
+      "ingredients": [
+        "2000 bagels",
+        "butter"
+      ],
+      "instructions": [
+        "cut the bagel",
+        "spread butter on bagel"
+      ]
+    },
+    {
+      "name": "BRAND new bagel",
+      "ingredients": [
+        "4 bagels",
+        "butter"
+      ],
+      "instructions": [
+        "cut the bagel",
+        "spread butter on bagel"
+      ]
+    },
+    {
+      "name": "BRAND OLD bagel",
+      "ingredients": [
+        "4 bagels",
+        "butter"
+      ],
+      "instructions": [
+        "cut the bagel",
+        "spread butter on bagel"
+      ]
+    },
+    {
+      "name": "wannabe bagel",
+      "ingredients": [
+        "4 bagels",
+        "butter"
+      ],
+      "instructions": [
+        "cut the bagel",
+        "spread butter on bagel"
+      ]
+    },
+    {
+      "name": "lets go bagel",
+      "ingredients": [
+        "4 bagels",
+        "butter"
+      ],
+      "instructions": [
+        "cut the bagel",
+        "spread butter on bagel"
+      ]
     }
   ]
 }
